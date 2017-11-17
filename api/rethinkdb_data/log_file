@@ -1,0 +1,50 @@
+2017-11-09T08:40:31.182915000 0.031941s notice: Recursively removing directory /Users/calebmadson/Documents/DevTree/week-9/day-4/FullStack-APP/api/rethinkdb_data/tmp
+2017-11-09T08:40:31.184581000 0.033610s notice: Initializing directory /Users/calebmadson/Documents/DevTree/week-9/day-4/FullStack-APP/api/rethinkdb_data
+2017-11-09T08:40:31.184661000 0.033685s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/calebmadson/Documents/DevTree/week-9/day-4/FullStack-APP/api/rethinkdb_data' did not already exist or is empty.)
+2017-11-09T08:40:31.184681000 0.033705s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-09T08:40:31.188211000 0.037236s notice: Running on Darwin 16.7.0 x86_64
+2017-11-09T08:40:31.188240000 0.037264s notice: Loading data from directory /Users/calebmadson/Documents/DevTree/week-9/day-4/FullStack-APP/api/rethinkdb_data
+2017-11-09T08:40:31.289160000 0.138185s info: Automatically using cache size of 4454 MB
+2017-11-09T08:40:31.289597000 0.138621s notice: Listening for intracluster connections on port 29015
+2017-11-09T08:40:31.291118000 0.140142s notice: Listening for client driver connections on port 28015
+2017-11-09T08:40:31.291219000 0.140244s notice: Listening for administrative HTTP connections on port 8080
+2017-11-09T08:40:31.291226000 0.140250s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-09T08:40:31.291229000 0.140253s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-09T08:40:31.291230000 0.140255s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-09T08:40:31.291233000 0.140258s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-09T08:40:31.291237000 0.140261s notice: Server ready, "calebs_mbp_lan_ocn" 629a029c-e8e8-47e8-9c31-83025d6f9056
+2017-11-09T09:23:34.494011000 2583.453477s info: Table f09b3433-2cc4-4c7d-8fc4-77b557bebf20: Starting a new Raft election for term 1.
+2017-11-09T09:23:34.494580000 2583.454046s info: Table f09b3433-2cc4-4c7d-8fc4-77b557bebf20: Added replica on this server.
+2017-11-09T09:23:34.515781000 2583.475247s info: Table f09b3433-2cc4-4c7d-8fc4-77b557bebf20: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-09T13:37:20.000964000 17809.590507s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: Starting a new Raft election for term 1.
+2017-11-09T13:37:20.001334000 17809.590877s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: Added replica on this server.
+2017-11-09T13:37:20.020254000 17809.609797s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-10T08:02:56.982426000 0.027120s notice: Running rethinkdb 2.3.6 (CLANG 8.1.0 (clang-802.0.42))...
+2017-11-10T08:02:56.986338000 0.031028s notice: Running on Darwin 16.7.0 x86_64
+2017-11-10T08:02:56.986371000 0.031061s notice: Loading data from directory /Users/calebmadson/Documents/DevTree/week-9/day-5/FullStack-APP/api/rethinkdb_data
+2017-11-10T08:02:57.016303000 0.060993s info: Automatically using cache size of 4895 MB
+2017-11-10T08:02:57.016764000 0.061453s notice: Listening for intracluster connections on port 29015
+2017-11-10T08:02:57.055449000 0.100139s notice: Listening for client driver connections on port 28015
+2017-11-10T08:02:57.055623000 0.100312s notice: Listening for administrative HTTP connections on port 8080
+2017-11-10T08:02:57.055624000 0.100314s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-11-10T08:02:57.055625000 0.100314s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-11-10T08:02:57.055634000 0.100323s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-11-10T08:02:57.055635000 0.100325s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-11-10T08:02:57.055637000 0.100326s notice: Server ready, "calebs_mbp_lan_ocn" 629a029c-e8e8-47e8-9c31-83025d6f9056
+2017-11-10T08:02:59.015396000 2.060174s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: Starting a new Raft election for term 2.
+2017-11-10T08:02:59.023257000 2.068035s info: Table f09b3433-2cc4-4c7d-8fc4-77b557bebf20: Starting a new Raft election for term 2.
+2017-11-10T08:02:59.035817000 2.080595s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-10T08:02:59.048940000 2.093718s info: Table f09b3433-2cc4-4c7d-8fc4-77b557bebf20: This server is Raft leader for term 2. Latest log index is 3.
+2017-11-10T08:28:41.474427000 1544.585708s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: Configuration is changing.
+2017-11-10T09:23:05.422635000 4808.672233s info: Table d1aed62b-e592-4190-97ce-78bedd08da43: Configuration is changing.
+2017-11-10T11:27:34.847331000 12278.410817s info: Table f65b3ef7-d8ab-41f8-b302-0584fc9c8616: Starting a new Raft election for term 1.
+2017-11-10T11:27:34.847589000 12278.411075s info: Table f65b3ef7-d8ab-41f8-b302-0584fc9c8616: Added replica on this server.
+2017-11-10T11:27:34.855894000 12278.419379s info: Table d4621a58-e1a5-4d4b-a100-de3a74e363ca: Starting a new Raft election for term 1.
+2017-11-10T11:27:34.856063000 12278.419549s info: Table d4621a58-e1a5-4d4b-a100-de3a74e363ca: Added replica on this server.
+2017-11-10T11:27:34.878194000 12278.441680s info: Table f65b3ef7-d8ab-41f8-b302-0584fc9c8616: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-10T11:27:34.878258000 12278.441744s info: Table d4621a58-e1a5-4d4b-a100-de3a74e363ca: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-10T11:27:35.477538000 12279.041068s info: Table d4621a58-e1a5-4d4b-a100-de3a74e363ca: Configuration is changing.
+2017-11-10T14:35:23.917683000 23547.950585s info: Table d44f5e8d-3991-4b8b-b6e0-739d3b06eb79: Starting a new Raft election for term 1.
+2017-11-10T14:35:23.917885000 23547.950787s info: Table d44f5e8d-3991-4b8b-b6e0-739d3b06eb79: Added replica on this server.
+2017-11-10T14:35:23.939011000 23547.971913s info: Table d44f5e8d-3991-4b8b-b6e0-739d3b06eb79: This server is Raft leader for term 1. Latest log index is 0.
+2017-11-10T14:36:27.987424000 23612.022981s info: Table d44f5e8d-3991-4b8b-b6e0-739d3b06eb79: Configuration is changing.
